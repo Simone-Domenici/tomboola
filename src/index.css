@@ -3,6 +3,10 @@
   height: 100%;
 }
 
+body {
+  background-color: #17A494;
+}
+
 * {
   margin: 0 auto;
   padding: 0;
